@@ -390,7 +390,7 @@
     "currenttransform": "этотебальник",
     "direction": "напрямок",
     "filter": "воднік",
-    "font": "шрифк",
+    "font": "шрифт",
     "fillstyle": "стильзаливки",
     "globalalpha": "головнийальфач",
     "imagesmoothingenabled": "включитьразмытиеебала",
