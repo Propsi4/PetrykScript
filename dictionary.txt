@@ -234,7 +234,7 @@
     "onwaiting": "покамотаюсрок",
     "window": "вікно",
     "closed": "завалено",
-    "console": "відладка",
+    "console": ["консоль","відладка"],
     "controllers": "геймпад",
     "crypto": "криптовалюта",
     "devicepixelratio": "типайфона",
